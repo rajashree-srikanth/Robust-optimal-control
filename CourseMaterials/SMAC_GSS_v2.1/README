@@ -1,0 +1,71 @@
+﻿===============================
+SMAC Toolbox - GSS Library v2.1
+===============================
+
+-----------------------------
+License agreement, disclaimer
+-----------------------------
+
+- You are free to use any of the files of the GSS Library of the SMAC Toolbox for personal or
+  academic use. The express permission of the authors is required for any commercial use.
+- You can redistribute the GSS Library of the SMAC Toolbox and its manual without modification
+  provided that it is for a non commercial purpose. Redistribution in any commercial form (CD-ROM,
+  USB flash drive or any other media) is hereby forbidden, unless with the express written
+  permission of the authors. Any of your software developments related to this download will be
+  available under similar license conditions.
+- Neither the authors nor ONERA accept any responsibility or liability with regard to this software
+  that is licensed on an "as is" basis. There will be no duty on authors or ONERA to correct any
+  errors or defects in the software. 
+
+-------
+History
+-------
+
+Current version of the GSS Library: v2.1 released on 12 October 2020.
+
+Older versions:
+- v2.0 released on 27 July 2020
+- v1.5 released on 7 November 2019
+- v1.4 released on 16 May 2017
+- v1.3 released on 29 June 2016
+- v1.2 released on 6 April 2016
+- v1.1 released on 7 March 2016
+- v1.0 released on 8 February 2016
+
+--------------------
+Download and install
+--------------------
+
+- Download the GSS Library on the SMAC website http://w3.onera.fr/smac/.
+- Unzip it in a folder of your choice.
+- Add this folder and the subfolder subslk to the Matlab path.
+- Enjoy, and do not hesitate to contact Clément Roos (croos@onera.fr) or Jean-Marc Biannic
+  (biannic@onera.fr) in case of trouble or success!
+
+No on-line help or pdf documentation is available for the GSS library, but each routine is
+thoroughly documented (complete description, call, input and output arguments, examples...).
+
+-------------------
+System requirements
+-------------------
+
+The GSS library of the SMAC toolbox can be used on all platforms (Linux, Mac and Windows). All
+routines run on Matlab 2017b or higher. They should run on older releases, but no validation has
+been performed.
+
+The Symbolic Math toolbox is required to use the routine sym2gss. The LFR toolbox and the Robust
+Control toolbox are required to use the routines lfr2gss/gss2lfr and uss2gss/gss2uss respectively.
+
+The APRICOT Library of the SMAC Toolbox is required to use the routine data2gss. A limited version
+can be freely downloaded at http://w3.onera.fr/smac/apricot.
+
+---------
+Reference
+---------
+
+The GSS Library of the SMAC Toolbox must be referenced when used in any published work:
+
+[1] J-M. Biannic and C. Roos, "Generalized State Space: a new Matlab class to model uncertain and
+    nonlinear systems as Linear Fractional Representations", 2012-2020, available with the SMAC
+    Toolbox at http://w3.onera.fr/smac/gss.
+

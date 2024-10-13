@@ -1,0 +1,66 @@
+﻿================================================
+SMAC Toolbox - SMART Library v1.7 - full version
+================================================
+
+-----------------------------
+License agreement, disclaimer
+-----------------------------
+
+- You are free to use any of the files of the SMART Library of the SMAC Toolbox for personal
+  or academic use. The express permission of the authors is required for any commercial use.
+- You can redistribute the SMART Library of the SMAC Toolbox and its manual without modification
+  provided that it is for a non commercial purpose. Redistribution in any commercial form
+  including CD-ROM or any other media is hereby forbidden, unless with the express written
+  permission of the authors. Any of your software developments related to this download will
+  be available under similar license conditions.
+- Neither the authors nor ONERA accept any responsibility or liability with regard to this
+  software that is licensed on an "as is" basis. There will be no duty on authors or ONERA to
+  correct any errors or defects in the software. 
+
+-------
+History
+-------
+
+Current version of the SMART Library: v1.7 released on 6 July 2021.
+
+Older versions:
+- v1.6 released on 12 October 2020
+- v1.5 released on 4 October 2018
+- v1.4 released on 11 July 2016
+- v1.3 released on 12 November 2014
+- v1.2 released on 18 June 2014
+- v1.1 released on 30 April 2014
+- v1.0 released on 21 March 2013
+
+--------------------
+Download and install
+--------------------
+
+- Download the SMART Library on the SMAC website http://w3.onera.fr/smac/smart.
+- Unzip it in a folder of your choice.
+- Add this folder to the Matlab path.
+- Enjoy, and do not hesitate to contact Clément Roos (croos@onera.fr) in case of trouble
+  or success!
+
+----------
+References
+----------
+
+The SMART Library of the SMAC Toolbox must be referenced when used in any published work:
+
+[1] C. Roos, "Systems Modeling, Analysis and Control (SMAC) Toolbox: an insight into the
+    robustness analysis library", in Proceedings of the IEEE Multiconference on Systems and
+    Control, Hyderabad, India, August 2013, pp. 176-181.
+
+Additional references can also be used. Reference 2 describes the algorithms which are
+implemented in the library, whereas reference 3 presents some numerical results obtained
+when applying the library to challenging real-world benchmarks.
+
+[2] C. Roos, F. Lescher, J-M. Biannic, C. Doll and G. Ferreres, "A set of μ-analysis based
+    tools to evaluate the robustness properties of high-dimensional uncertain systems", in
+    Proceedings of the IEEE Multiconference on Systems and Control, Denver, Colorado,
+    September 2011, pp. 644-649.
+[3] C. Roos and J-M. Biannic, "A detailed comparative analysis of all practical algorithms
+    to compute lower bounds on the structured singular value", Control Engineering Practice,
+    44:219–230, 2015.
+
